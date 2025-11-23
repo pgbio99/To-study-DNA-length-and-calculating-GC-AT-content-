@@ -3,3 +3,5 @@ Here are two scripts, one for calculating GC and purine content. The IGF1 DNA se
 
 The second file has a slightly different Python script used to calculate AT and pyrimidine content. A DNA sequence is chosen from the Y chromosome (mouse), then its FASTA file is downloaded, and the same steps are followed as for the former one.
 
+# To study DNA reverse complement
+In this file, a random DNA sequence is provided manually, and a reverse DNA sequence is studied. After it, a complementary reverse DNA sequence is generated.
